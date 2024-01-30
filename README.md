@@ -1,2 +1,2 @@
 # Scikit-Learn
-This repository contains exercises I did with Sciki-Learn library, more specifically regression and classification type of problems  
+This repository contains exercises that I worked on with the Scikit-Learn library, specifically regression and classification problems.  
